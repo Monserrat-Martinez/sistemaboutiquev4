@@ -1,0 +1,12 @@
+{
+  "name": "sistemaboutiquev4",
+  "version": "1.0.0",
+  "description": "projecto boutique",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1",
+    "bulma-social": "^2.0.0"
+  }
+}
